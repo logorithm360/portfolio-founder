@@ -1,0 +1,27 @@
+# Node dependencies
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Log files
+*.log
+vite_output.log
+uvicorn_output.log
+frontend/vite_output.log
+
+# System files
+.DS_Store
+Thumbs.db
